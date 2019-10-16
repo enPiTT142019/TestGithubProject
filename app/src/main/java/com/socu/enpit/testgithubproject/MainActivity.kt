@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         //田坂匠
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        //FujimotoAkihisa
     }
 }
