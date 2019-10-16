@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
     // mashida
     override fun onCreate(savedInstanceState: Bundle?) {
         //田坂匠
+        //taskakkk
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //FujimotoAkihisa
