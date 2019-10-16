@@ -5,6 +5,7 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 
+    // mashida
     override fun onCreate(savedInstanceState: Bundle?) {
         //田坂匠
         super.onCreate(savedInstanceState)
