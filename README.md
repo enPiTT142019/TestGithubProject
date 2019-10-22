@@ -1,0 +1,4 @@
+# TestGithubProject
+初めてのAndroidStudioとGithubの連携
+
+readmetest
