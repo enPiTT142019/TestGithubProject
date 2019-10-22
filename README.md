@@ -1,5 +1,5 @@
 # TestGithubProject
-初めてのAndroidStudioとGithubの連携
+## 初めてのAndroidStudioとGithubの連携
 
 readmetest
 
